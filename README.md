@@ -171,4 +171,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ Star this repo if you find it useful!**
 
 **📧 Contact**: [singhnancy2004@gmail.com](mailto:singhnancy2004@gmail.com)
-**🔗 LinkedIn**: [Nancy Singh](https://linkedin.com/in/nancy-singh)
+**🔗 LinkedIn**: [Nancy Singh](https://www.linkedin.com/in/nancy-singh-84367722a/)
